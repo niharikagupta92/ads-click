@@ -1,4 +1,4 @@
-# Kafka Streams Tutorial: Real-Time Ad Click Aggregation
+# Kafka Streams: Real-Time Ad Click Aggregation
 
 A comprehensive hands-on project demonstrating **Apache Kafka Streams** core concepts through a real-world use case.
 

@@ -1,0 +1,27 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Kafka Streams State
+/tmp/
+kafka-streams-data/
+ad-click-stream-processor-data/
+
+# Java
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# Build artifacts
+ads-click/
+clickstream-analyzer-data/
